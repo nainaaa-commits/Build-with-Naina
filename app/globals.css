@@ -10,6 +10,23 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-brand-navy: #070A1A;
+  --color-brand-ink: #101426;
+  --color-brand-coral: #FF4F8B;
+  --color-brand-cyan: #22D3EE;
+  --color-brand-lavender: #A78BFA;
+  --color-brand-white: #F8FAFC;
+  --color-brand-muted: #94A3B8;
+  --color-brand-border: #1E293B;
+
+  /* Radius */
+  --radius-card: 1.5rem;
+  --radius-button: 999px;
+
+  /* Shadows */
+  --shadow-card: 0 24px 80px rgba(0, 0, 0, 0.35);
+  --shadow-coral-glow: 0 0 40px rgba(255, 79, 139, 0.25);
+  --shadow-cyan-glow: 0 0 40px rgba(34, 211, 238, 0.22);
 }
 
 @media (prefers-color-scheme: dark) {
